@@ -118,7 +118,7 @@ Which courses or programs are most popular among students, and why?
 
 <img width="508" alt="image" src="https://github.com/Alagesan-Sushmitha/Data-Analytics/assets/137837229/b94d7a35-d472-468a-ac20-cc4a8519b2ed">
 
-## Analysis:
+### Analysis:
 We can observe that not all the students who have verified will acquire a preview and convert it to credit. There might be many reasons for this.
 The course structure might have impressed them to obtain a credit on it or it might be difficult to get not previewed.
 Those courses are to be closely monitored to identify enrollment patterns and evaluate the effectiveness of enrollment interventions and assess the impact of enrollment factors on student success to inform program design
